@@ -1,0 +1,837 @@
+{
+  "groups": [
+    {
+      "groupId": 0,
+      "records": [
+        {
+          "tsid": "Arc_012",
+          "dataSetName": "Arc-Tornetrask.Melvin.2012",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Arc_012mxd",
+          "dataSetName": "Arc-Tornetrask.Melvin.2012",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 1,
+      "records": [
+        {
+          "tsid": "Arc_037",
+          "dataSetName": "Arc-VoeringPlateau.Berner.2011",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_107",
+          "dataSetName": "Ocn-MD95-2011.Grimalt.2002",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_105",
+          "dataSetName": "Ocn-MD95-2011.Grimalt.2002",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 2,
+      "records": [
+        {
+          "tsid": "Asia_335",
+          "dataSetName": "Asi-SO90-39KG_SO130-275KL.Munz.2015",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_116",
+          "dataSetName": "Ocn-ArabianSea.Doose-Rolinski.2001",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_114",
+          "dataSetName": "Ocn-ArabianSea.Doose-Rolinski.2001",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 3,
+      "records": [
+        {
+          "tsid": "O2kLR_112",
+          "dataSetName": "Ocn-CapeGhir.Doose-Rolinski.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_113",
+          "dataSetName": "Ocn-CapeGhir.Doose-Rolinski.2007",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 4,
+      "records": [
+        {
+          "tsid": "LPD84ab67b9",
+          "dataSetName": "Ocn-CapeGhir.McGregor.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPDc08ab49e",
+          "dataSetName": "Ocn-CapeGhir.McGregor.2007",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 5,
+      "records": [
+        {
+          "tsid": "LPDe51d17e8",
+          "dataSetName": "Ocn-CariacoBasin.Black.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD708fb697",
+          "dataSetName": "Ocn-CariacoBasin.Black.2007",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 6,
+      "records": [
+        {
+          "tsid": "LPDcda1c277",
+          "dataSetName": "Ocn-CariacoBasin.Lea.2003",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD806644b2",
+          "dataSetName": "Ocn-CariacoBasin.Lea.2003",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 7,
+      "records": [
+        {
+          "tsid": "LPDa03ec713",
+          "dataSetName": "Ocn-CH07-98-MC-22.Saenger.2011",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD09e5a770",
+          "dataSetName": "Ocn-CH07-98-MC-22.Saenger.2011",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 8,
+      "records": [
+        {
+          "tsid": "O2kLR_187",
+          "dataSetName": "Ocn-ChileanMargin.Lamy.2002",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_189",
+          "dataSetName": "Ocn-ChileanMargin.Lamy.2002",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 9,
+      "records": [
+        {
+          "tsid": "LPDf7bace53",
+          "dataSetName": "Ocn-DryTortugas.Lund.2006",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD9b023bc9",
+          "dataSetName": "Ocn-DryTortugas.Lund.2006",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 10,
+      "records": [
+        {
+          "tsid": "O2kLR_066",
+          "dataSetName": "Ocn-DryTortugasA.Lund.2006",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_068",
+          "dataSetName": "Ocn-DryTortugasA.Lund.2006",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 11,
+      "records": [
+        {
+          "tsid": "LPD13a78f9b",
+          "dataSetName": "Ocn-EasternTropicalNorthAtlantic.Kuhnert.2011",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD34478ed4",
+          "dataSetName": "Ocn-EasternTropicalNorthAtlantic.Kuhnert.2011",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 12,
+      "records": [
+        {
+          "tsid": "O2kLR_074",
+          "dataSetName": "Ocn-EmeraldBasin.Keigwin.2003",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_076",
+          "dataSetName": "Ocn-EmeraldBasin.Keigwin.2003",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 13,
+      "records": [
+        {
+          "tsid": "LPD68872399",
+          "dataSetName": "Ocn-EmeraldBasin.Keigwin.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD711f7893",
+          "dataSetName": "Ocn-EmeraldBasin.Keigwin.2007",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 14,
+      "records": [
+        {
+          "tsid": "LPD47182517",
+          "dataSetName": "Ocn-FeniDrift.Richter.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPDb7290ea4",
+          "dataSetName": "Ocn-FeniDrift.Richter.2009",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 15,
+      "records": [
+        {
+          "tsid": "LPD57d40973",
+          "dataSetName": "Ocn-FiskBasin.Richey.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPDb44bf261",
+          "dataSetName": "Ocn-FiskBasin.Richey.2009",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 16,
+      "records": [
+        {
+          "tsid": "O2kLR_017",
+          "dataSetName": "Ocn-GarrisonBasin.Richey.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_019",
+          "dataSetName": "Ocn-GarrisonBasin.Richey.2009",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 17,
+      "records": [
+        {
+          "tsid": "LPD7c7e19c5",
+          "dataSetName": "Ocn-GreatBahamaBank.Lund.2006",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPDe6c52b99-dup",
+          "dataSetName": "Ocn-GreatBahamaBank.Lund.2006",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 18,
+      "records": [
+        {
+          "tsid": "LPDefb3d2b0",
+          "dataSetName": "Ocn-GreatBahamaBank.Richter.2006",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPDc07746c5",
+          "dataSetName": "Ocn-GreatBahamaBank.Richter.2006",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 19,
+      "records": [
+        {
+          "tsid": "O2kLR_150",
+          "dataSetName": "Ocn-GreatBarrierReef.Hendy.2002",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_152",
+          "dataSetName": "Ocn-GreatBarrierReef.Hendy.2002",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 20,
+      "records": [
+        {
+          "tsid": "LPD9cc3baf6-dup",
+          "dataSetName": "Ocn-GulfofGuinea.Weldeab.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD716b88d0",
+          "dataSetName": "Ocn-GulfofGuinea.Weldeab.2007",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 21,
+      "records": [
+        {
+          "tsid": "LPD6315f935",
+          "dataSetName": "Ocn-JacafFjord.Sepulveda.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD5c89a1b5-dup",
+          "dataSetName": "Ocn-JacafFjord.Sepulveda.2009",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 22,
+      "records": [
+        {
+          "tsid": "LPDa2107e77",
+          "dataSetName": "Ocn-KNR140‐2‐59GGC.Saenger.2011",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPDa97364db",
+          "dataSetName": "Ocn-KNR140‐2‐59GGC.Saenger.2011",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 23,
+      "records": [
+        {
+          "tsid": "O2kLR_175",
+          "dataSetName": "Ocn-KuroshioCurrent.Isono.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_177",
+          "dataSetName": "Ocn-KuroshioCurrent.Isono.2009",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 24,
+      "records": [
+        {
+          "tsid": "O2kLR_030",
+          "dataSetName": "Ocn-LaurentianFan.Keigwin.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_032",
+          "dataSetName": "Ocn-LaurentianFan.Keigwin.2005",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 25,
+      "records": [
+        {
+          "tsid": "O2kLR_135",
+          "dataSetName": "Ocn-MakassarStrait.Linsley.2010",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_137",
+          "dataSetName": "Ocn-MakassarStrait.Linsley.2010",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 26,
+      "records": [
+        {
+          "tsid": "O2kLR_148",
+          "dataSetName": "Ocn-MakassarStrait.Oppo.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_149",
+          "dataSetName": "Ocn-MakassarStrait.Oppo.2009",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 27,
+      "records": [
+        {
+          "tsid": "LPD10e9f8f7",
+          "dataSetName": "Ocn-MinorcaContourite.Moreno.2012",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD6dbf8788",
+          "dataSetName": "Ocn-MinorcaContourite.Moreno.2012",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 28,
+      "records": [
+        {
+          "tsid": "O2kLR_045",
+          "dataSetName": "Ocn-NorthIceland.Sicre.2011",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_046",
+          "dataSetName": "Ocn-NorthIceland.Sicre.2011",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 29,
+      "records": [
+        {
+          "tsid": "O2kLR_146",
+          "dataSetName": "Ocn-NorthwestPacificOcean.Harada.2004",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_147_2",
+          "dataSetName": "Ocn-NorthwestPacificOcean.Harada.2004",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 30,
+      "records": [
+        {
+          "tsid": "LPDbd07f717",
+          "dataSetName": "Ocn-ODP984.Came.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPDd95394f2",
+          "dataSetName": "Ocn-ODP984.Came.2007",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 31,
+      "records": [
+        {
+          "tsid": "O2kLR_165",
+          "dataSetName": "Ocn-OkinawaTrough.Wu.2012",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_166",
+          "dataSetName": "Ocn-OkinawaTrough.Wu.2012",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 32,
+      "records": [
+        {
+          "tsid": "LPD572f7cc3",
+          "dataSetName": "Ocn-PigmyBasin.Richey.2015",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD016ef221",
+          "dataSetName": "Ocn-PigmyBasin.Richey.2015",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 33,
+      "records": [
+        {
+          "tsid": "LPDb17a5e9e-dup",
+          "dataSetName": "Ocn-RAPiD-12-1K.Thornalley.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD44e382ee",
+          "dataSetName": "Ocn-RAPiD-12-1K.Thornalley.2009",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 34,
+      "records": [
+        {
+          "tsid": "O2kLR_183",
+          "dataSetName": "Ocn-SantaBarbaraBasin.Zhao.2000",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_184",
+          "dataSetName": "Ocn-SantaBarbaraBasin.Zhao.2000",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 35,
+      "records": [
+        {
+          "tsid": "LPDa77273bb",
+          "dataSetName": "Ocn-SouthAtlanticWestAfrica.Leduc.2010",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD4dd77d54",
+          "dataSetName": "Ocn-SouthAtlanticWestAfrica.Leduc.2010",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 36,
+      "records": [
+        {
+          "tsid": "LPD44b374e7",
+          "dataSetName": "Ocn-SouthChinaSea.Zhao.2006",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD72fcea5b",
+          "dataSetName": "Ocn-SouthChinaSea.Zhao.2006",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 37,
+      "records": [
+        {
+          "tsid": "O2kLR_195",
+          "dataSetName": "Ocn-SouthernChileMargin.Mohtadi.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_197",
+          "dataSetName": "Ocn-SouthernChileMargin.Mohtadi.2007",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 38,
+      "records": [
+        {
+          "tsid": "O2kLR_082",
+          "dataSetName": "Ocn-SubTropicalEasternNorthAtlantic.deMenocal.2000",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_084",
+          "dataSetName": "Ocn-SubTropicalEasternNorthAtlantic.deMenocal.2000",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 39,
+      "records": [
+        {
+          "tsid": "O2kLR_118",
+          "dataSetName": "Ocn-SWCoastOfIndia.Saraswat.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_120",
+          "dataSetName": "Ocn-SWCoastOfIndia.Saraswat.2013",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 40,
+      "records": [
+        {
+          "tsid": "LPDb7ba9166",
+          "dataSetName": "Ocn-TagusMudPatch.Abrantes.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD16c5b9d8",
+          "dataSetName": "Ocn-TagusMudPatch.Abrantes.2005",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 41,
+      "records": [
+        {
+          "tsid": "LPD2a3997a7",
+          "dataSetName": "Ocn-WesternAntarcticPeninsula.Shevenell.2011",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD7cf4e05b",
+          "dataSetName": "Ocn-WesternAntarcticPeninsula.Shevenell.2011",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 42,
+      "records": [
+        {
+          "tsid": "O2kLR_007",
+          "dataSetName": "Ocn-WesternSvalbard.Spielhagen.2011",
+          "decision": "keep"
+        },
+        {
+          "tsid": "O2kLR_009",
+          "dataSetName": "Ocn-WesternSvalbard.Spielhagen.2011",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 43,
+      "records": [
+        {
+          "tsid": "LPD995c6f3c",
+          "dataSetName": "Ocn-WestSpitzberg.Bonnet.2010",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPDe9d8175e",
+          "dataSetName": "Ocn-WestSpitzberg.Bonnet.2010",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPDea4376b6",
+          "dataSetName": "Ocn-WestSpitzberg.Bonnet.2010",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD9716f325",
+          "dataSetName": "Ocn-WestSpitzberg.Bonnet.2010",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD9774ea11",
+          "dataSetName": "Ocn-WestSpitzberg.Bonnet.2010",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 44,
+      "records": [
+        {
+          "tsid": "SAm_015",
+          "dataSetName": "SAm-CentralAndes6.Villalba.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_011",
+          "dataSetName": "SAm-CentralAndes6.Villalba.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_012",
+          "dataSetName": "SAm-CentralAndes6.Villalba.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_013",
+          "dataSetName": "SAm-CentralAndes6.Villalba.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_014",
+          "dataSetName": "SAm-CentralAndes6.Villalba.2014",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 45,
+      "records": [
+        {
+          "tsid": "SAm_020",
+          "dataSetName": "SAm-CentralAndes9.Mundo.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_016",
+          "dataSetName": "SAm-CentralAndes9.Mundo.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_017",
+          "dataSetName": "SAm-CentralAndes9.Mundo.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_018",
+          "dataSetName": "SAm-CentralAndes9.Mundo.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_019",
+          "dataSetName": "SAm-CentralAndes9.Mundo.2014",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 46,
+      "records": [
+        {
+          "tsid": "SAm_024",
+          "dataSetName": "SAm-LagunaAculeo.vonGunten.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_0243",
+          "dataSetName": "SAm-LagunaAculeo.vonGunten.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_0241",
+          "dataSetName": "SAm-LagunaAculeo.vonGunten.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_0242",
+          "dataSetName": "SAm-LagunaAculeo.vonGunten.2009",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 47,
+      "records": [
+        {
+          "tsid": "SAm_025",
+          "dataSetName": "SAm-LagunaChepical.deJong.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_026",
+          "dataSetName": "SAm-LagunaChepical.deJong.2013",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    }
+  ]
+}
